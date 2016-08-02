@@ -1,2 +1,6 @@
 Hi! My name is Leo and i am new to coding
-This is going to be my first code example
+This is going to be my first code
+
+Alright, this is me adding one more line to
+the file, let's see what it looks like
+Hello!
