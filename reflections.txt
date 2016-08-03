@@ -5,7 +5,7 @@ Branches let you take things in different paths, you can branch out from your
 original ideas and try new things out without having to worry about breaking
 your code. It lets you stay organized throughout your coding by giving your
 version control some structure and organization.
-
+1
 How do diagrams help you visualize the branch structure?
 
 A
@@ -13,5 +13,4 @@ B
 C
 D
 E
-F
 G
