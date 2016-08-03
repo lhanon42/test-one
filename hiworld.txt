@@ -1,8 +1,14 @@
+
 Hi! My name is Leo and I am new to coding
+
 This is going to be my first code
 
 Alright, this is me adding one more line to
-the file, let's see what it looks like
+the file, let's see what IT looks like
 Hello!
 
 Adding another line to see wa happens
+
+Adding this line on master
+
+What's good yall?
