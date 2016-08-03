@@ -7,5 +7,3 @@ your code. It lets you stay organized throughout your coding by giving your
 version control some structure and organization.
 
 How do diagrams help you visualize the branch structure?
-
-Diagrams help you see the actual branch structure in a pictoral way
