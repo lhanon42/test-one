@@ -1,8 +1,10 @@
-Hi! My name is Leo and i am new to coding
+Hi! I am Leo and I am new to coding
 This is going to be my first code
 
 Alright, this is me adding one more line to
 the file, let's see what IT looks like
 Hello!
+
+Adding this line on master
 
 What's good yall?
