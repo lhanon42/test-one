@@ -10,8 +10,8 @@ How do diagrams help you visualize the branch structure?
 
 A
 B
-C
 D
 E
 F
 G
+H
